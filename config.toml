@@ -1,0 +1,8 @@
+case-insensitive = true
+[human]
+enabled = true
+hidden = false
+help = "This Human Does Not Exist."
+brief = "For humans"
+usage = ""
+aliases = ["person", "humans"]
